@@ -1,6 +1,6 @@
 # Site settings
 title: Gaeun Portfolio
-baseurl: "/ap"
+baseurl: 
 url: "https://gauen0921-lgtm.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
