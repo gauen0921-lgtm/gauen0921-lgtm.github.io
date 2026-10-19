@@ -2,22 +2,15 @@
 layout: post
 title:  "Toy Project"
 info: "toy project"
-tech: "python"
+tech: "ABAP"
 type: Toy 
 ---
 
 ## Toy Project 1.
-There is no specific form.  
-You can write what you want to write.  
-Since this markdown file is just displayed on the screen, you can create an image or format that matches the format you want.  
-In the case of the example, I briefly described the project introduction, technique, and period.  
-
+유통기업 관리 프로세스를 SAP 시스템에 구축
+FI - AP 담당
+계정과목표 세팅
 
 ## Techique
-I wrote that I used python to run the project.  
-You just need to describe how you made it.  
+SAP GUI 환경에서 구현
 
-
-## Duration 
-You can enter the period in a convenient format.   
-You may specify only the duration of your work, assuming that you create a start date in the filename.  
